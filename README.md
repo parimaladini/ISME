@@ -4,7 +4,7 @@
 
 Realtime face recognition flutter app.
 
- [Download](https://github.com/parimaladini/ISME/main/FaceRecognition.apk) apk file.
+ [Download](https://github.com/parimaladini/raw/main/ISME/FaceRecognition.apk) apk file.
 
 ## Steps
 
